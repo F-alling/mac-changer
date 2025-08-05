@@ -36,7 +36,7 @@ NETWORK_INTERFACE = "Wi-Fi"
 try:
     DEFAULT_MAC = mac_utils.get_current_mac(NETWORK_INTERFACE)
 except Exception:
-    DEFAULT_MAC = "98-8D-46-FB-64-45"
+    DEFAULT_MAC = "00-00-00-00-00-00"
 
 def normalize_mac(mac_str):
     # Remove all non-hex characters, then format as XX:XX:XX:XX:XX:XX
