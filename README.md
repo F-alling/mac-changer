@@ -25,7 +25,7 @@ A simple dark-mode GUI tool to generate, apply, and reset MAC addresses.
 
 It Is Also Executable
 
-You can just download the .exe file from Releases.
+You can just [download the .exe](https://github.com/xBanD3l/mac-changer/releases/download/v1.1/MAC-CHANGER-v1.1.exe) file from Releases.
 
 ## ⚠️ Disclaimer
 
